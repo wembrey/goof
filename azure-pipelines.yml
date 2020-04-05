@@ -26,5 +26,5 @@ steps:
 
 - script: |
     snyk auth $(SNYK_TOKEN)
-    snyk test || true
+    snyk protect || true
   displayName: 'Scan dependencies for vulnerabilities with Snyk'
