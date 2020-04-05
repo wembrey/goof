@@ -26,6 +26,6 @@ steps:
 
 - script: |
     snyk auth $(SNYK_TOKEN)
-    snyk monitor || true
-    snyk test || true
+    snyk monitor --org=azure-project || true
+    snyk test --org=azure-project || true
   displayName: 'Scan dependencies for vulnerabilities with Snyk'
