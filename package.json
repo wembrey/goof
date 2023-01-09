@@ -38,7 +38,7 @@
     "marked": "0.3.5",
     "method-override": "latest",
     "moment": "2.15.1",
-    "mongoose": "4.2.4",
+    "mongoose": "5.2.6",
     "morgan": "latest",
     "ms": "^0.7.1",
     "node-forge": "^0.9.1",
@@ -47,7 +47,7 @@
     "requestidlecallback-polyfill": "^1.0.2",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
-    "tap": "^5.7.0",
+    "tap": "^14.6.8",
     "xmldom": "^0.3.0"
   },
   "devDependencies": {
