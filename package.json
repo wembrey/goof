@@ -29,7 +29,7 @@
     "ejs-locals": "1.0.2",
     "errorhandler": "1.2.0",
     "express": "4.12.3",
-    "express-fileupload": "0.0.5",
+    "express-fileupload": "0.2.0",
     "file-type": "^8.1.0",
     "flickity": "^2.2.1",
     "humanize-ms": "1.0.1",
@@ -47,7 +47,7 @@
     "requestidlecallback-polyfill": "^1.0.2",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
-    "tap": "^5.7.0",
+    "tap": "^18.0.0",
     "xmldom": "^0.3.0"
   },
   "devDependencies": {
